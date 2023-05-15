@@ -10,5 +10,6 @@ public class EjemploGit {
         System.out.println("Hello World!");
         System.out.println("Primer paso!!");
         System.out.println("Segundo paso!!");
+        System.out.println("Editado en GitHub");
     }
 }
